@@ -1,0 +1,11 @@
+<svg width="300" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ECDC4;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#0D9B8C;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="180" fill="url(#grad2)"/>
+  <text x="150" y="70" font-size="28" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">PAMS</text>
+  <text x="150" y="105" font-size="28" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial">Political Activities</text>
+</svg>
